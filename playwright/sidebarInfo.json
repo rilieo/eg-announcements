@@ -1,0 +1,26 @@
+[
+  {
+    "heading": "Course Information",
+    "list": [
+      "Announcements",
+      "Sections",
+      "Syllabus/Schedules"
+    ]
+  },
+  {
+    "heading": "Employees",
+    "list": [
+      "Professors",
+      "Staff",
+      "Teaching Assistants",
+      "Writing Professors"
+    ]
+  },
+  {
+    "heading": "Help Center",
+    "list": [
+      "Student Manual",
+      "Send Feedback"
+    ]
+  }
+]
